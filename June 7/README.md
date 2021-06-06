@@ -4,4 +4,4 @@
 ![](https://github.com/SalamaAlmheiri/introToIM/blob/main/June%207/Production%20Assignment%205.png)
 
 Photo Used:
-![] ()
+![](https://github.com/SalamaAlmheiri/introToIM/blob/main/June%207/beach%20copy.jpg)
