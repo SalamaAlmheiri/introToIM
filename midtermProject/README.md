@@ -1,7 +1,7 @@
 # Midterm Project Idea:
 
 Recreating the famous art piece "Girl with Balloon" by the artist Banksy on the canvas.
-It will be a game where a player has to move the red balloon with the arrow keys to a higher position, as is the balloon is flying away.   
+It will be a game where a player has to move the red balloon with the arrow keys to a higher position, as if the balloon is flying away.   
 
 - Shape: Circle (balloon, movable). 
 - Image: Upload a photo of the girl (will not be moving).  
