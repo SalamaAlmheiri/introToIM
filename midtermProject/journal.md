@@ -14,6 +14,6 @@ It will be a game where a player has to move the red balloon with the arrow keys
 ### June 9
 
 I changed the artwork a little bit and moved things around in order to fit the size that I want.
-The grey balloon is the area where the moving balloon has to reach/ be moved to. The moving balloon will be red.
+The moving balloon will be red while the grey balloon acts as a base where the red balloon need to reach/ be moved to in order to win the game.
 
 <img src="https://github.com/SalamaAlmheiri/introToIM/blob/main/midtermProject/Banksy%201.jpg" width=300 align=center>
