@@ -10,3 +10,9 @@ It will be a game where a player has to move the red balloon with the arrow keys
 - On-screen text: name of the game or painting.   
 
 ![](https://github.com/SalamaAlmheiri/introToIM/blob/main/midtermProject/Banksy.jpg) 
+
+### June 9
+
+I changed the artwork a little bit and moved things around in order to fit the size that I want.
+
+![]()
