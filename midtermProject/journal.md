@@ -17,3 +17,4 @@ I changed the artwork a little bit and moved things around in order to fit the s
 The grey balloon is the area where the moving balloon has to reach/ be moved to. The moving balloon will be red.
 
 <img width="500" alt="Banksy_1.jpg" src=(https://github.com/SalamaAlmheiri/introToIM/blob/main/midtermProject/Banksy%201.jpg)>
+<img src="Banksy_1.jpg" alt="https://github.com/SalamaAlmheiri/introToIM/blob/main/midtermProject/Banksy%201.jpg" width="500"/>
