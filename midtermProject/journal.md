@@ -16,4 +16,4 @@ It will be a game where a player has to move the red balloon with the arrow keys
 I changed the artwork a little bit and moved things around in order to fit the size that I want.
 The grey balloon is the area where the moving balloon has to reach/ be moved to. The moving balloon will be red.
 
-<img width="612" alt="Banksy_1.jpg" src=(https://github.com/SalamaAlmheiri/introToIM/blob/main/midtermProject/Banksy%201.jpg)>
+<img width="500" alt="Banksy_1.jpg" src=(https://github.com/SalamaAlmheiri/introToIM/blob/main/midtermProject/Banksy%201.jpg)>
