@@ -9,7 +9,7 @@ It will be a game where a player has to move the red balloon with the arrow keys
 - Sound: Success sound once the balloon is in the correct position on the canvas.   
 - On-screen text: name of the game or painting.   
 
-![](https://github.com/SalamaAlmheiri/introToIM/blob/main/midtermProject/Banksy.jpg) 
+![](https://github.com/SalamaAlmheiri/introToIM/blob/main/midtermProject/Banksy.jpg)  
 
 ### June 9
 
