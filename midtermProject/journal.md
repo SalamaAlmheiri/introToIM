@@ -24,4 +24,5 @@ The moving balloon will be red while the grey balloon acts as a base where the r
 I have created a balloon class and included display and movement. For the display, it would display a ellipse which would be the "base" which the image of the red balloon would follow. In the movement section, I created a keypressed if statement so that the red balloon can be moved with the four keyboard arrows.
 However, I have come across an **unknown problem** because everything is working exept that the red balloon appears in the middle of the screen but it does not move when i press the keys.
 
-![](https://github.com/SalamaAlmheiri/introToIM/blob/main/midtermProject/Banksy%202.png)
+
+<img src="https://github.com/SalamaAlmheiri/introToIM/blob/main/midtermProject/Banksy%202.png" width=300 align=center>
