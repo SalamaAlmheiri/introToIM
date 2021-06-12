@@ -32,7 +32,7 @@ See the code in file name: Midterm_V3.pde
 <img src="https://github.com/SalamaAlmheiri/introToIM/blob/main/midtermProject/Banksy%202.png" width=300 align=center>
 
 
-### June 12
+### June 12 (Part 1)
 
 Today I added the String to my code so I can write the text on the canvas. Here is what it displays.
 
@@ -47,5 +47,7 @@ I am also still working on:
 
 <img src="https://github.com/SalamaAlmheiri/introToIM/blob/main/midtermProject/Banksy%203.png" width=300 align=center>
 
+### June 12 (Part 2)
 
+I was having difficulty with my code so I decided to rewrite it without the class function because it made the code complicated and I couldnt know why the balloon is not moving. However, now my code looks a lot less complicated and the balloon moves when I press the arrow keys.
 
