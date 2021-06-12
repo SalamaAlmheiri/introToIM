@@ -34,9 +34,13 @@ See the code in file name: Midterm_V3.pde
 
 ### June 12
 
-Today I will be writting the code for the text message to appear on the screen.
+Today I added the String to my code so I can write the text on the canvas. Here is what it displays.
 
-**It will display:** name of the game and short instructions
-
+**It displays:** name of the game and short instructions  
 "Balloon Girl"    
 "Make the balloon fly away to the correct position by using the 4 arrows"
+
+<img src=" " width=300 align=center>
+
+
+
