@@ -37,5 +37,7 @@ See the code in file name: Midterm_V3.pde
 Today I will be writting the code for the text message to appear on the screen.
 
 **It will display:** name of the game and short instructions
+
 "Balloon Girl"
+
 "Make the balloon fly away to the correct position by using the 4 arrows"
