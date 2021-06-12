@@ -53,7 +53,7 @@ See the code in file name [Midterm_V5.pde](https://github.com/SalamaAlmheiri/int
 
 I was having difficulty with my code so I decided to rewrite it without the class function because it made the code complicated and I couldnt know why the balloon is not moving. However, now my code looks a lot less complicated and the balloon moves when I press the arrow keys.
 
-The canvas looks the same.  
+Here is a **video** of what it looks like when the balloon is moving. [video 1] (
 Here is what the code looks like now: [Midterm_V6.pde](https://github.com/SalamaAlmheiri/introToIM/blob/main/midtermProject/Midterm_V6.pde)
 
 
