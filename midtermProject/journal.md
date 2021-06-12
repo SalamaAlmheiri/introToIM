@@ -40,7 +40,7 @@ Today I added the String to my code so I can write the text on the canvas. Here 
 "Balloon Girl"    
 "Make the balloon fly away to the correct position by using the 4 arrows"
 
-<img src=" " width=300 align=center>
+<img src="https://github.com/SalamaAlmheiri/introToIM/blob/main/midtermProject/Banksy%203.png" width=300 align=center>
 
 
 
