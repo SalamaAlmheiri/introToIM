@@ -62,3 +62,12 @@ Here is what the code looks like now: [Midterm_V6.pde](https://github.com/Salama
 
 - Today I am working on adding the sound and making the balloon stop correctly.
 - To make the balloon stop, I added a boolean that is set to false.
+
+**Other things I changed:**
+- When I had uploaded the girl image, I was drawing it as an image in the background instead of using an actual background function. So i changed it to background after i learnt about the functions use. This way, the red balloon does not leave tracing after it moves.
+- I added 2 sounds: first the background music that plays all the time while the game is being played. Second is the "winning" sound that plays when the red balloon reaches its goal. At first I had a hard time trying to make the sound work becasue it kept giving me IndexOutOfBoundsExceptionon error but there was nothing wrong with my code becasue i checked it many times. So then, I downloaded a new sound and removed the old one and it was working normally.
+- I also added a 'space' key function that allows the game to be restarted by pressing the space key.
+
+
+## **Final Game**
+
