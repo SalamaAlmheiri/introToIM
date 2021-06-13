@@ -9,8 +9,9 @@ The red color of the balloon is what caught my eye, when it comes to this painti
 - Use the key arrows to move the red balloon to the correct position which is shown as a grey balloon in the background.
 - To play the game again, press the 'space' key.
 
-Here is a video that shows how the game is played:
+Here is a **video** that shows how the game is played:
+[Video] (
 
 
-
-Here is the final code for the game:
+Here is the final **code** for the game:
+[Final Code](https://github.com/SalamaAlmheiri/introToIM/blob/main/midtermProject/Midterm_Game_Final_.pde)
