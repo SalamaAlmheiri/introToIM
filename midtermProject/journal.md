@@ -60,4 +60,5 @@ Here is what the code looks like now: [Midterm_V6.pde](https://github.com/Salama
 
 ### June 13
 
-Today I am working on adding the sound and making the balloon stop correctly.
+- Today I am working on adding the sound and making the balloon stop correctly.
+- To make the balloon stop, I added a boolean that is set to false.
