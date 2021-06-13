@@ -72,5 +72,3 @@ Here is what the code looks like now: [Midterm_V6.pde](https://github.com/Salama
 <img src="https://github.com/SalamaAlmheiri/introToIM/blob/main/midtermProject/Banksy%204.png" width=300 align=center>
 
 
-## **Final Game**
-
