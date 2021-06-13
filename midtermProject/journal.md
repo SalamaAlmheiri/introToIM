@@ -58,3 +58,6 @@ Here is a **video** of what it looks like when the balloon is moving. [Video 1](
 Here is what the code looks like now: [Midterm_V6.pde](https://github.com/SalamaAlmheiri/introToIM/blob/main/midtermProject/Midterm_V6.pde)
 
 
+### June 13
+
+Today I am working on adding the sound and making the balloon stop correctly.
