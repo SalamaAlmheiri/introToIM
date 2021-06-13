@@ -69,5 +69,8 @@ Here is what the code looks like now: [Midterm_V6.pde](https://github.com/Salama
 - I also added a 'space' key function that allows the game to be restarted by pressing the space key.
 
 
+<img src="https://github.com/SalamaAlmheiri/introToIM/blob/main/midtermProject/Banksy%204.png" width=300 align=center>
+
+
 ## **Final Game**
 
