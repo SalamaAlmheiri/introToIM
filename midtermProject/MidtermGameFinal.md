@@ -10,7 +10,7 @@ The red color of the balloon is what caught my eye, when it comes to this painti
 - To play the game again, press the 'space' key.
 
 Here is a **video** that shows how the game is played:
-[Video] (
+[Video](https://github.com/SalamaAlmheiri/introToIM/blob/main/midtermProject/Video%20Final.mov)
 
 
 Here is the final **code** for the game:
