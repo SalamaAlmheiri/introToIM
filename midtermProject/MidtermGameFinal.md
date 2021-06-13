@@ -2,6 +2,7 @@
 ### Balloon Girl Game
 
 **Concept**
+
 The "Girl with a Balloon" is one of the artist, Banksy's most famous paintings which had inspired me to make this game. I have always wondered about the meaning of this painting but it could be interpreted differently based of off what you precieve. In my opinion it's a painting of a girl losing her red balloon (which often happens when kids are given balloons) and it could be interpreted as a painting that evokes a person's view on hope.
 The red color of the balloon is what caught my eye, when it comes to this painting. There for I have created this game which enables the player to move the bright balloon over the black and white paiting to recreate it.
 
