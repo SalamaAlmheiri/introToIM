@@ -15,3 +15,7 @@ Here is a **video** that shows how the game is played:
 
 Here is the final **code** for the game:
 [Final Code](https://github.com/SalamaAlmheiri/introToIM/blob/main/midtermProject/Midterm_Game_Final_.pde)
+
+
+  
+<img src="https://github.com/SalamaAlmheiri/introToIM/blob/main/midtermProject/Banksy%203.png" width=300 align=center>
