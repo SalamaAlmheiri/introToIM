@@ -4,5 +4,6 @@ I do understand the inout and output and assigning the variables, however I am a
 [Arduino Code](https://github.com/SalamaAlmheiri/introToIM/blob/main/June%2014/Production_Assignment_6.ino)
 [Video](https://github.com/SalamaAlmheiri/introToIM/blob/main/June%2014/LED%20video.mov)
 
-https://github.com/SalamaAlmheiri/introToIM/blob/main/June%2014/LED.HEIC
+<img src="https://github.com/SalamaAlmheiri/introToIM/blob/main/June%2014/LED.HEIC" width=300 align=center>
+
 
