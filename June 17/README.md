@@ -10,6 +10,6 @@ Here is a [Video](https://github.com/SalamaAlmheiri/introToIM/blob/main/June%201
 
 ### **Picture of the breadboard and the schematic:**
 
-<img src="https://github.com/SalamaAlmheiri/introToIM/blob/main/June%2017/Analog:Digital.png" width=400 align=center> 
+<img src="https://github.com/SalamaAlmheiri/introToIM/blob/main/June%2017/Analog:Digital.png" width=600 align=center> 
 
-<img src="-" width=400 align=center> 
+<img src="https://github.com/SalamaAlmheiri/introToIM/blob/main/June%2017/Schematic%202.png" width=600 align=center> 
