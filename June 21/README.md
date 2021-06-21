@@ -15,4 +15,4 @@ Here is the Arduino [Code](https://github.com/SalamaAlmheiri/introToIM/blob/main
 
 <img src="https://github.com/SalamaAlmheiri/introToIM/blob/main/June%2021/Music%20Assig..png" width=600 align=center> 
 
-<img src="-" width=600 align=center>    
+<img src="https://github.com/SalamaAlmheiri/introToIM/blob/main/June%2021/Schematic%203.png" width=600 align=center>    
