@@ -2,7 +2,7 @@
 ## Musical instrument
 
 Concept:
-- To turn on the music and sensor when the button is pressed. Frequency will change when i move my hand to block the light from the light sensor.
+- To turn on the sound and sensor when the button is pressed. Frequency will change when i move my hand to block the light from the light sensor.
 - music will play with moving your hand on the sensor.
 - I am having trouble making the sensor work. You can see from the video that the sound is working but the frequency does not change when i move my hand. There might be a mistake in the code that I have to make some changes but I am still not sure what it is.
 
