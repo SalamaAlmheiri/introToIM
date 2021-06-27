@@ -4,7 +4,13 @@
 # [In Progress]
 
 Concept:
--..
+- This will be a drawing game.
+- By twisting the potentiometer, the "player" will be able to draw on the screen just like the concept of the toy "etch a sketch".
+- However, the problem is I only have one potentiometer, but the toy uses two to be able to move in both directions and up and down.
+
+<img src="-" width=300 align=center>  
+
+
 
 Here is the Arduino [Code](-)
 
