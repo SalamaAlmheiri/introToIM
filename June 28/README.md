@@ -12,12 +12,11 @@ Concept:
 <img src="https://github.com/SalamaAlmheiri/introToIM/blob/main/June%2028/drawing%20idea.jpg" width=300 align=center>  
 
 
-
+(code in progress)
 Here is the Arduino [Code](-)
 
-Here is the Processing [Code](-)
+Here is the Processing [Code](https://github.com/SalamaAlmheiri/introToIM/blob/main/June%2028/PA_9__V3.pde)
 
-Here is the [Video](-)
 
 
 ### **Picture of the breadboard and the schematic:**
