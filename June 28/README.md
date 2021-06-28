@@ -25,4 +25,4 @@ Here is the [Video](-)
 
 <img src="-" width=600 align=center> 
 
-<img src="-" width=600 align=center>  
+<img src="https://github.com/SalamaAlmheiri/introToIM/blob/main/June%2028/PA9-%20schematic.png" width=600 align=center>  
