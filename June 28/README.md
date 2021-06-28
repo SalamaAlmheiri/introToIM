@@ -8,6 +8,12 @@ Concept:
 - However, the problem is I only have one potentiometer, but the toy uses two to be able to move in both directions and up and down.
 - Therefore, I will be using a potentiometer to move up and down and 2 buttons, 1 to move right, the other left.
 
+**How to Play:**
+- To move left press geen button
+- To move right press yellow button
+- To move up, turn the knob clockwise
+- To move down, turn the knob anticlockwise
+
 <img src="https://github.com/SalamaAlmheiri/introToIM/blob/main/June%2028/drawing%20idea.jpg" width=300 align=center>  
 
 
@@ -17,8 +23,9 @@ Here is the Arduino [Code](https://github.com/SalamaAlmheiri/introToIM/blob/main
 
 Here is the Processing [Code](https://github.com/SalamaAlmheiri/introToIM/blob/main/June%2028/Production_Assignment_9_V4__Pro_.pde)
 
-Here is the [Arduino Video](-) (me playing the game 'drawing')
-Here is the [Sketch Video](-)
+Here is the [Arduino Video](https://youtu.be/amK8Wbs9bMU) (me playing the game 'drawing')
+
+Here is the [Sketch Video](https://youtu.be/iqeBO8EdvgI)
 
 
 ### **Picture of the breadboard and the schematic:**
