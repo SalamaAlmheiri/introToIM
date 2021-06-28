@@ -17,7 +17,8 @@ Here is the Arduino [Code](https://github.com/SalamaAlmheiri/introToIM/blob/main
 
 Here is the Processing [Code](https://github.com/SalamaAlmheiri/introToIM/blob/main/June%2028/Production_Assignment_9_V4__Pro_.pde)
 
-Here is the [Video](-)
+Here is the [Arduino Video](-) (me playing the game 'drawing')
+Here is the [Sketch Video](-)
 
 
 ### **Picture of the breadboard and the schematic:**
