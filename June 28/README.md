@@ -1,7 +1,6 @@
 # Production Assignment 9 :
 ## Game (communication between Arduino and Processing): 
 
-# [In Progress]
 
 Concept:
 - This will be a drawing game.
@@ -13,9 +12,8 @@ Concept:
 
 
 
-**(Code in progress)**
 
-Here is the Arduino [Code](https://github.com/SalamaAlmheiri/introToIM/blob/main/June%2028/Communication_assig._V3.ino)
+Here is the Arduino [Code](https://github.com/SalamaAlmheiri/introToIM/blob/main/June%2028/Production_Assignment_9_V4.ino)
 
 Here is the Processing [Code](https://github.com/SalamaAlmheiri/introToIM/blob/main/June%2028/PA_9__V3.pde)
 
