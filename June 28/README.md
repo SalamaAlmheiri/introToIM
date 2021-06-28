@@ -17,6 +17,7 @@ Concept:
 <img src="https://github.com/SalamaAlmheiri/introToIM/blob/main/June%2028/drawing%20idea.jpg" width=300 align=center>  
 
 Here is what a drawing looks like after I tried playing with it a few times. It is harder than you expect becasue the knob is not very precise, therefore you need to be able to move it quickly.
+
 <img src="https://github.com/SalamaAlmheiri/introToIM/blob/main/June%2028/drawing%20sketch.png" width=300 align=center>  
 
 
