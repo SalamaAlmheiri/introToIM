@@ -13,16 +13,9 @@ Concept:
 
 
 
-Here is the Arduino [Code](-)
-
-Here is the Processing [Code](-)
-
-Here is the [Video](-)
-
-
 
 ### **Picture of the breadboard and the schematic:**
 
-<img src="-" width=600 align=center> 
+<img src="https://github.com/SalamaAlmheiri/introToIM/blob/main/June%2028/PA9.png" width=600 align=center> 
 
 <img src="https://github.com/SalamaAlmheiri/introToIM/blob/main/June%2028/PA9-%20schematic.png" width=600 align=center>  
