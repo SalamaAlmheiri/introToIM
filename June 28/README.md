@@ -12,10 +12,13 @@ Concept:
 <img src="https://github.com/SalamaAlmheiri/introToIM/blob/main/June%2028/drawing%20idea.jpg" width=300 align=center>  
 
 
-(code in progress)
-Here is the Arduino [Code](-)
+
+**(Code in progress)**
+
+Here is the Arduino [Code](https://github.com/SalamaAlmheiri/introToIM/blob/main/June%2028/Communication_assig._V3.ino)
 
 Here is the Processing [Code](https://github.com/SalamaAlmheiri/introToIM/blob/main/June%2028/PA_9__V3.pde)
+
 
 
 
