@@ -16,6 +16,7 @@ Concept:
 
 <img src="https://github.com/SalamaAlmheiri/introToIM/blob/main/June%2028/drawing%20idea.jpg" width=300 align=center>  
 
+<img src="https://github.com/SalamaAlmheiri/introToIM/blob/main/June%2028/drawing%20sketch.png" width=300 align=center>  
 
 
 
