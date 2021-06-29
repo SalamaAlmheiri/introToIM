@@ -2,7 +2,7 @@
 
 ### June 30:
 
-**Concept:***
+**Concept:**
 - .
 
 
