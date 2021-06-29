@@ -19,4 +19,5 @@ Items from **Processing**
 
 
 Drawing that I made for the background: 
-<img src="https://github.com/SalamaAlmheiri/introToIM/blob/main/June%2021/Music%20Assig..png" width=600 align=center> 
+
+<img src="https://github.com/SalamaAlmheiri/introToIM/blob/main/finalProject/Maze%201.jpg" width=600 align=center> 
