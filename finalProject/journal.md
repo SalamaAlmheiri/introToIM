@@ -9,8 +9,9 @@
 
 Items from **Arduino**
 1. 4 buttons to move up, down, left, right
-2. LCD screen to display instructions and game comments
-3. Tone: will be using the piazo buzzer for sound effects
+2. LED to light up when the game is won
+3. LCD screen to display instructions and game comments
+4. Tone: will be using the piazo buzzer for sound effects
 
 Items from **Processing**
 1. Image for the background
