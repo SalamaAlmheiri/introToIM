@@ -1,6 +1,6 @@
 # First Draft Final Project Proposal
 
-### June 30:
+### June 29:
 
 **Concept:**
 - My idea is to create a maze game that will appear on the processing canvas and can be controlled by interacting with the arduino.
@@ -23,3 +23,13 @@ Items from **Processing**
 Drawing that I made for the background: 
 
 <img src="https://github.com/SalamaAlmheiri/introToIM/blob/main/finalProject/Maze%201.jpg" width=600 align=center> 
+
+
+### June 29:
+
+- Today, I started working on the arduino. I made a circuit that works for the 4 buttons that I am going to use, and I wrote the aruino code.
+- I also worked on Processing and drew my own sprite sheet for the character that will be moving on the screen.
+- This is what it looks like:
+
+<img src="-" width=600 align=center> 
+<img src="-" width=600 align=center> 
