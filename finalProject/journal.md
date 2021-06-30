@@ -25,11 +25,19 @@ Drawing that I made for the background:
 <img src="https://github.com/SalamaAlmheiri/introToIM/blob/main/finalProject/Maze%201.jpg" width=600 align=center> 
 
 
-### June 29:
+### June 30:
 
 - Today, I started working on the arduino. I made a circuit that works for the 4 buttons that I am going to use, and I wrote the aruino code.
 - I also worked on Processing and drew my own sprite sheet for the character that will be moving on the screen.
 - This is what it looks like:
 
-<img src="-" width=600 align=center> 
-<img src="-" width=600 align=center> 
+[Arduino code](https://github.com/SalamaAlmheiri/introToIM/blob/main/finalProject/Button_test__ard_.ino)
+[Processing code](https://github.com/SalamaAlmheiri/introToIM/blob/main/finalProject/Maze_V1__pro_.pde)
+
+Sprite sheet:
+
+<img src="https://github.com/SalamaAlmheiri/introToIM/blob/main/finalProject/wTotoro2.png" width=300 align=center> 
+
+Processing canvas:
+
+<img src="https://github.com/SalamaAlmheiri/introToIM/blob/main/finalProject/Maze-june%2030.png" width=300 align=center> 
