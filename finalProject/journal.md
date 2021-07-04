@@ -47,7 +47,7 @@ Processing canvas:
 
 ### July 3:
 
-- Today, I worked on the processing code to make the character move according to the sprite sheet. So now when I press the buttons on the Arduino, the character moves where I want it to go.
+- Today, I worked on the processing code to make the character move according to the sprite sheet. So now when I press the buttons on the Arduino, the character moves where I want it to go and is also animated when moving.
 - I was also working on trying to find a way to in the code to distiguish between the white background color and the green wall color to make the character not move through the walls but I am having trouble understanding how to do that.
 
 [Processing code Version 2](https://github.com/SalamaAlmheiri/introToIM/blob/main/finalProject/Maze_V2__pro_.pde)
