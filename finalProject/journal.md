@@ -54,7 +54,9 @@ Processing canvas:
 
 
 ### July 5:
-- Today I fixed the problem so that the character stops at the walls. But now when the character touches a wall, it gets stuck and doesnt move again. So I will be working of fixing that problem. 
+- Today I fixed the problem so that the character stops at the walls. But now when the character touches a wall, it gets stuck and doesnt move again. So I will be working on fixing that problem. 
+- I have also connected the LCD screen to my arduino and added it to my arduino code. I am going to make it display the game title and then display success once the game is won.
+- I have also conected a green LED which should also light up when the game is won.
 
 Here is a video of what it looks like so far (it also shows how it gets stuck) [video](https://github.com/SalamaAlmheiri/introToIM/blob/main/finalProject/Maze%20game-%20Salama.mov)
 
