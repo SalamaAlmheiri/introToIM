@@ -52,3 +52,8 @@ Processing canvas:
 
 [Processing code Version 2](https://github.com/SalamaAlmheiri/introToIM/blob/main/finalProject/Maze_V2__pro_.pde)
 
+
+### July 5:
+- Today I fished the problem so that the character stops at the walls. But now when the character touches a wall, it gets stuck and doesnt move again. So I will be working of fishing that problem. 
+
+Here is a video of what it looks like so far (it also shows how it gets stuck) [video]()
