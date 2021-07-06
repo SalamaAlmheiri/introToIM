@@ -73,5 +73,5 @@ Here is a video of what the problem looks like [video](https://github.com/Salama
 
 [Processing code Version 5](-
 
-<img src="-" width=300 align=center> 
-<img src="-" width=300 align=center> 
+<img src="https://github.com/SalamaAlmheiri/introToIM/blob/main/finalProject/Instructions2.JPG" width=400 align=center> 
+<img src="https://github.com/SalamaAlmheiri/introToIM/blob/main/finalProject/won.JPG" width=400 align=center> 
