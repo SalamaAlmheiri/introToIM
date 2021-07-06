@@ -62,6 +62,10 @@ Here is a video of what it looks like so far (it also shows how it gets stuck) [
 
 [Processing code Version 3](https://github.com/SalamaAlmheiri/introToIM/blob/main/finalProject/Maze_V3__pro_.pde)
 
+This is what the circuit looks like:
+
+<img src="https://github.com/SalamaAlmheiri/introToIM/blob/main/finalProject/circuit.png" width=400 align=center> 
+
 
 ### July 6:
 - I fixed the problem with the wall by adding a preX, preY (previos x and y position) to allow the character to return one step back so it does not continue to move forward and keep getting stuck to the wall.
@@ -74,7 +78,7 @@ Here is a video of what it looks like so far (it also shows how it gets stuck) [
 
 Here is a video of what the problem looks like [video](https://github.com/SalamaAlmheiri/introToIM/blob/main/finalProject/maze.mov)
 
-[Processing code Version 5](-
+[Processing code Version 5](https://github.com/SalamaAlmheiri/introToIM/blob/main/finalProject/Maze_V5__pro_.pde)
 
 <img src="https://github.com/SalamaAlmheiri/introToIM/blob/main/finalProject/Instructions2.JPG" width=400 align=center> 
 <img src="https://github.com/SalamaAlmheiri/introToIM/blob/main/finalProject/won.JPG" width=400 align=center> 
