@@ -68,6 +68,9 @@ Here is a video of what it looks like so far (it also shows how it gets stuck) [
 - I also drew an "Instruction" page and a "Winning" page. **(see below)**
 - I have also added a gameState in order to be able to go to different "screens". First is the instruction screen (gameState=0) which automatically appears at the start of the game. When the blue button is pressed the player can start the game which is the playing state (gameState=1). Then when the player reaches the end of the maze, another screen appears that says "success!" which is the win state (gameState=2).
 - However, I have come across another problem which is that, I am trying to make the player able to return to the first screen by pressing the red button but that does not work which is a problem I am trying to fix now. **(see video)**
+- **Update** I have fixed the problem by simply entering the same integer variables used under the else statement.
+- I have also added background music that plays in a loop throughout the game. As well another sound which plays when the player reaches the end of the maze.
+- Also made the LED light up and the LCD show "Sucess" when the game is won.
 
 Here is a video of what the problem looks like [video](https://github.com/SalamaAlmheiri/introToIM/blob/main/finalProject/maze.mov)
 
