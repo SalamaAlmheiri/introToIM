@@ -9,7 +9,7 @@
 - First, I had this concept in my mind so I decided to start drawing out the idea and I made the background.
 - Then I started working on the code and adding the important things like the buttons.
 - Then I also drew the character's spritesheet and wrote the code to make sure it worked. the position of each sprite in the spritesheet is important, so I referenced the spritesheet we looked at in class to know the directions of where the character will be moving.
-- A problem I faced was that the character was at first not stoping at the walls, then I changed things in the code, but it was getting stuck to the wall instead. So I figured out a solution. I created new integers that we named `prevX, prevY` which make the character return a step back to its previous position.
+- A problem I faced was that the character was at first not stoping at the walls, then I changed things in the code, but it was getting stuck to the wall instead. So I figured out a solution. I created new integers that I named `prevX, prevY` which make the character return a step back to its previous position so it wont get stuck.
 
 [Screen Recorded Video](https://youtu.be/XuUzAIEqk6M)
 
