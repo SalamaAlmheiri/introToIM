@@ -1,7 +1,7 @@
 # Final Project
 
 ## Concept
-**Game Title: Totoro's Maze Game**
+### **Game Title:** Totoro's Maze Game
 - My game is inspired by the movie *My Neighbour Totoro*. There is a scene where the little girl follows the little white creature into the forest to eventually find Totoro sleeping in the forest.
 - So my game is based off of this forest where the player is the white creature trying to find their way to Totoro through the forest maze.
 
