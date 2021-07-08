@@ -10,9 +10,11 @@
 [Playing Video](-)
 
 ## **Game:**
+State 1 (playing)
 
  <img src="https://github.com/SalamaAlmheiri/introToIM/blob/main/finalProject/Game.png" width=600 align=center> 
 
+State 0(instruction) and State 2 (win)
 <img src="https://github.com/SalamaAlmheiri/introToIM/blob/main/finalProject/Instructions2.JPG" width=450 align=left> <img src="https://github.com/SalamaAlmheiri/introToIM/blob/main/finalProject/won.JPG" width=450 align=right> 
 
 
