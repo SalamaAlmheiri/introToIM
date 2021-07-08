@@ -2,7 +2,7 @@
   Salama Almheiri
   Forest Maze Game
   July 8 2021
-  Version 5
+  Final Version
 */
 
 #include <LiquidCrystal.h>
