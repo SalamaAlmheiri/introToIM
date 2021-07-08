@@ -1,4 +1,4 @@
-# Final Project  *[In Progress]*
+# Final Project
 
 ## Concept
 **Game Title: Totoro's Maze Game**
