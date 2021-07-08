@@ -5,7 +5,7 @@
 - My game is inspired by the movie *My Neighbour Totoro*. There is a scene where the little girl follows the little white creature into the forest to eventually find Totoro sleeping in the forest.
 - So my game is based off of this forest where the player is the white creature trying to find their way to Totoro through the forest maze.
 
-### Process, Problems and Solutions:
+**Process, Problems and Solutions:**
 - First, I had this concept in my mind so I decided to start drawing out the idea and I made the background.
 - Then I started working on the code and adding the important things like the buttons.
 - Then I also drew the character's spritesheet and wrote the code to make sure it worked. the position of each sprite in the spritesheet is important, so I referenced the spritesheet we looked at in class to know the directions of where the character will be moving.
