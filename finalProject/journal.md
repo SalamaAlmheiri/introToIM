@@ -68,7 +68,7 @@ This is what the circuit looks like:
 
 
 ### July 6:
-- I fixed the problem with the wall by adding a preX, preY (previos x and y position) to allow the character to return one step back so it does not continue to move forward and keep getting stuck to the wall.
+- I fixed the problem with the wall by adding a prevX, prevY (previos x and y position) to allow the character to return one step back so it does not continue to move forward and keep getting stuck to the wall.
 - I also drew an "Instruction" page and a "Winning" page. **(see below)**
 - I have also added a gameState in order to be able to go to different "screens". First is the instruction screen (gameState=0) which automatically appears at the start of the game. When the blue button is pressed the player can start the game which is the playing state (gameState=1). Then when the player reaches the end of the maze, another screen appears that says "success!" which is the win state (gameState=2).
 - However, I have come across another problem which is that, I am trying to make the player able to return to the first screen by pressing the red button but that does not work which is a problem I am trying to fix now. **(see video)**
