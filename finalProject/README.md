@@ -29,7 +29,7 @@ State 0(instruction) and State 2 (win)
 ## **Circuit:**
 - The game can be played by pressing the 4 buttons on the arduino to make the character move.
 - The LCD screen displays the title of the screen at the start of the game.
-- The LED lights up when the game is won.
+- The LED lights blink when the game is won.
 - The LCD screen displays "Success!" when the game is won.
 
 <img src="https://github.com/SalamaAlmheiri/introToIM/blob/main/finalProject/Circuit%20Start.png" width=450 align=left> <img src="https://github.com/SalamaAlmheiri/introToIM/blob/main/finalProject/Circuit%20End.png" width=450 align=right> 
